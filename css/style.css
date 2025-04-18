@@ -25,3 +25,42 @@
 .right {
   float: right;
 }
+
+
+.header {
+  background: rgb(28, 229, 255);
+  color: red
+}
+
+.menu {
+  background: rgb(255, 215, 162);
+  color: darkgreen;
+}
+
+.nav {
+  background: greenyellow;
+  float: left;
+  padding: 5px;
+  width: 120px;
+  height: 65px;
+  overflow: overlay;
+}
+
+.content {
+  background: rebeccapurple;
+  color: beige;
+  padding: 5px;
+  margin-left: 140px
+}
+
+.footer {
+  background: rgb(28, 89, 255);
+  clear: both;
+  margin-top: 3px;
+}
+
+.page {
+  background: red;
+  width: 300px;
+  margin: 50px auto;
+}
